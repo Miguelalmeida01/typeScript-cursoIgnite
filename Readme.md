@@ -1,7 +1,10 @@
-<img src="img/rocketseat.svg" alt="">
-
+<img src="img/rocketseat.svg" style="width:8.4375rem;" alt=""/>
 
 <a  href="Readme-pt.md" >Portuguese</a> 
+
+<br>
+
+
 
 # Entrega de projeto - Criando um Blog com Angular | DIO
 
