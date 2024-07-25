@@ -1,4 +1,6 @@
-<img src="img/rocketseat.svg" /><img src="img/logohulk.png" style="width:9.975rem;padding-left:0.567rem;margin-top: 2.25rem;"/>
+<img src="img/rocketseat.svg" />
+<br>
+<img src="img/logohulk.png" style="width:9.975rem;"/>
 
 
 <a href="Readme-pt.md">Portuguese</a> 
