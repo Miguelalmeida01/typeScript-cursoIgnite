@@ -1,7 +1,6 @@
 ![Imagem do projeto](./src/assets/projeto.png)
 
-
-<button href="Readme-pt.md">Portuguese</button> 
+<button href="Readme.md">inglês</button> 
 
 # Entrega de projeto - Criando um Blog com Angular | DIO
 
