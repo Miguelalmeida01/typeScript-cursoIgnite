@@ -1,4 +1,4 @@
-<img src="img/rocketseat.svg" style="135px;"  alt="">
+<img src="img/rocketseat.svg" style="135px;">
 
 <a href="Readme.md" >inglês</a> 
 

@@ -1,6 +1,6 @@
-<img src="img/rocketseat.svg" style="width:8.4375rem;" alt=""/>
+<img src="img/rocketseat.svg" style="width:8.4375rem;"/>
 
-<a  href="Readme-pt.md" >Portuguese</a> 
+<a href="Readme-pt.md">Portuguese</a> 
 
 <br>
 
