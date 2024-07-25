@@ -1,7 +1,7 @@
 ![Imagem do projeto](./src/assets/projeto.png)
 
 
-<link style="color: #ffffff;" href="./Readme-pt.md">Portuguese</link> 
+<a  href="Readme-pt.md" style="color: #ffffff;">Portuguese</a> 
 
 # Entrega de projeto - Criando um Blog com Angular | DIO
 
