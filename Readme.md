@@ -1,5 +1,5 @@
 <img src="img/rocketseat.svg" />
-<br>
+
 <img src="img/logohulk.png" style="width:9.975rem;"/>
 
 
