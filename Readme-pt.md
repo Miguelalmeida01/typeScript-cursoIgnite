@@ -1,4 +1,4 @@
-![Imagem do projeto](./src/assets/projeto.png)
+<img src="img/rocketseat.svg" alt="">
 
 <a href="Readme.md" >inglês</a> 
 
