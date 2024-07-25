@@ -1,4 +1,4 @@
-<img src="img/rocketseat.svg" style="width:8.4375rem;"/>
+<img src="img/rocketseat.svg" />
 
 <a href="Readme-pt.md">Portuguese</a> 
 
