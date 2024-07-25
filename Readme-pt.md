@@ -2,7 +2,7 @@
 
 <a href="Readme.md" >inglês</a> 
 
-<br>
+
 
 # Entrega de projeto - Criando um Blog com Angular | DIO
 
