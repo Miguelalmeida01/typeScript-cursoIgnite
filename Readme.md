@@ -47,7 +47,9 @@ This project is a fully functional blog application built using React. The main 
  ## Web project 
  
  <img src="img/Captura1.png" /> 
+
  <img src="img/Captura2.png" /> 
+ 
  <img src="img/Captura3.png" /> 
  
  

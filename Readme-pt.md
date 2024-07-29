@@ -3,7 +3,7 @@
 <img src="img/logohulk.png" style="width:9.975rem;text-align: right;"/>
 
 
-<a href="Readme-pt.md" style="color:#B0E0E6;">Inglês</a> 
+<a href="Readme.md" style="color:#B0E0E6;">Inglês</a> 
 
 
 
@@ -52,9 +52,9 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
 
 ## Projeto na web
 <img src="img/Captura1.png" />
-<br>
+
 <img src="img/Captura2.png" />
-<br>
+
 <img src="img/Captura3.png" />
 
 <a href="https://github.com/Miguelalmeida01/typeScript-cursoIgnite?tab=readme-ov-file#entrega-de-projeto---criando-um-blog-com-angular--dio" style="color:#B0E0E6">Voltar</a> 
