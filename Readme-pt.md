@@ -1,16 +1,21 @@
-<img src="img/rocketseat.svg" >
+<img src="img/rocketseat.svg" />
 
-<a href="Readme.md" >inglês</a> 
+<img src="img/logohulk.png" style="width:9.975rem;text-align: right;"/>
+
+
+<a href="Readme-pt.md" style="color:#B0E0E6;">Inglês</a> 
 
 
 
-# Entrega de projeto - Criando um Blog com Angular | DIO
 
-Este projeto é uma aplicação de blog totalmente funcional construída usando Angular. O principal objetivo deste projeto é demonstrar como construir componentes inteligentes e organizar efetivamente seu projeto Angular utilizando as ferramentas e recursos fornecidos pelo framework Angular.
+
+# Entrega de projeto - Criando um landing page com React | Rocketseat
+
+Este projeto é uma aplicação de blog totalmente funcional construída usando React. O principal objetivo deste projeto é demonstrar como construir componentes e organizar efetivamente seu projeto React utilizando as ferramentas e recursos fornecidos pelo framework Vite.
 
 ## Tecnologias Utilizadas
 
-- Angular
+- REACT
 - CSS
 - HTML
 
@@ -44,3 +49,12 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
    ```bash
    npm run dev
    ```
+
+## Projeto na web
+<img src="img/Captura1.png" />
+<br>
+<img src="img/Captura2.png" />
+<br>
+<img src="img/Captura3.png" />
+
+<a href="https://github.com/Miguelalmeida01/typeScript-cursoIgnite?tab=readme-ov-file#entrega-de-projeto---criando-um-blog-com-angular--dio" style="color:#B0E0E6">Voltar</a> 
