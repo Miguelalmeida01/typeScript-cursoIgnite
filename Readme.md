@@ -2,7 +2,7 @@
 
 <img src="img/logohulk.png" style="width:9.975rem;text-align: right;"/>
 
-<a href="Readme-pt. md" style="color:#B0E0E6;">Portuguese</a>
+<a href="Readme-pt.md" style="color:#B0E0E6;">Portuguese</a>
 
 # Project Delivery - Creating a Landing Page with React | Rocketseat 
 
