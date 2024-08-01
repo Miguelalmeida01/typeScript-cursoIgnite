@@ -15,6 +15,7 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
 
 ## Tecnologias Utilizadas
 
+- JAVA SCRIPT
 - REACT
 - CSS
 - HTML

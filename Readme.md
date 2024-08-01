@@ -9,6 +9,8 @@
 This project is a fully functional blog application built using React. The main goal of this project is to demonstrate how to effectively build components and organize your React project using the tools and resources provided by the Vite framework.
 
 ## Technologies Used 
+
+- JAVA SCRIPT
 - REACT 
 - CSS 
 - HTML 
