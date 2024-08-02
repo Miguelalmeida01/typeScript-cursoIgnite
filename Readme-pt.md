@@ -51,6 +51,11 @@ Este projeto é uma aplicação de blog totalmente funcional construída usando 
    npm run dev
    ```
 
+6. Projeto no Figma:
+   ```bash
+   https://www.figma.com/design/jPXqvWWDbjQ5MaeokS3B2u/Ignite-Feed-%E2%80%A2-Projeto-React?node-id=1-35&t=OhaOaX4xUadrfAAr-0
+   ```
+
 ## Projeto na web
 <img src="img/Captura1.png" />
 

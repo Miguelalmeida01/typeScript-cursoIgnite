@@ -45,7 +45,12 @@ This project is a fully functional blog application built using React. The main 
    ```bash
    npm run dev 
    ``` 
- 
+6. Design in Figma:
+
+   ```bash
+   https://www.figma.com/design/jPXqvWWDbjQ5MaeokS3B2u/Ignite-Feed-%E2%80%A2-Projeto-React?node-id=1-35&t=OhaOaX4xUadrfAAr-0
+   ```
+
  ## Web project 
  
  <img src="img/Captura1.png" /> 
